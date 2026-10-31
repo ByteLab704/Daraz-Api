@@ -32,5 +32,5 @@ Make sure you have Python 3.9+ installed on your machine.
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/your-username/daraz-search-api.git](https://github.com/your-username/daraz-search-api.git)
-   cd daraz-search-api
+   git clone https://github.com/ByteLab704/Daraz-Api.git
+   cd Daraz-api
